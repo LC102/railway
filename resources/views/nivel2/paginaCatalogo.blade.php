@@ -207,7 +207,7 @@
         <div class="grid grid-cols-2 md:grid-cols-3 gap-6">
             <!-- Taller de Música (Culturales) -->
             <div class="tarjeta-taller culturales musica">
-                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg" alt="Taller de Música">
+                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=400&q=80" alt="Taller de Música, instrumentos musicales">
                 <p class="nombre-taller mt-3 text-gray-700 text-lg font-medium">Taller de Música</p>
                 <p class="subcategoria-taller text-sm text-gray-500 mt-1">Subcategoría: Música</p>
                 <button class="text-red-500 text-2xl mt-2 hover:text-red-600 transition-all duration-300">❤</button>
@@ -222,7 +222,7 @@
             
             <!-- Taller de Fútbol (Deportivos) -->
             <div class="tarjeta-taller deportivos futbol">
-                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg" alt="Taller de Fútbol">
+                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="Taller de Fútbol, balón y campo de fútbol">
                 <p class="nombre-taller mt-3 text-gray-700 text-lg font-medium">Taller de Fútbol</p>
                 <p class="subcategoria-taller text-sm text-gray-500 mt-1">Subcategoría: Fútbol</p>
                 <button class="text-red-500 text-2xl mt-2 hover:text-red-600 transition-all duration-300">❤</button>
@@ -237,7 +237,7 @@
             
             <!-- Taller de Pintura (Artístico) -->
             <div class="tarjeta-taller artistico pintura">
-                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg" alt="Taller de Pintura">
+                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80" alt="Taller de Pintura, pinceles y lienzo">
                 <p class="nombre-taller mt-3 text-gray-700 text-lg font-medium">Taller de Pintura</p>
                 <p class="subcategoria-taller text-sm text-gray-500 mt-1">Subcategoría: Pintura</p>
                 <button class="text-red-500 text-2xl mt-2 hover:text-red-600 transition-all duration-300">❤</button>
@@ -252,7 +252,7 @@
             
             <!-- Taller de Comunicación (Interpersonales) -->
             <div class="tarjeta-taller interpersonales comunicacion">
-                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg" alt="">
+                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80" alt="Taller de Comunicación, personas conversando">
                 <p class="nombre-taller mt-3 text-gray-700 text-lg font-medium">Taller de Comunicación</p>
                 <p class="subcategoria-taller text-sm text-gray-500 mt-1">Subcategoría: Comunicación</p>
                 <button class="text-red-500 text-2xl mt-2 hover:text-red-600 transition-all duration-300">❤</button>
@@ -267,7 +267,7 @@
             
             <!-- Taller de Programación (Tecnológicos) -->
             <div class="tarjeta-taller tecnologicos programacion">
-                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg" alt="">
+                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80" alt="Taller de Programación, código en pantalla">
                 <p class="nombre-taller mt-3 text-gray-700 text-lg font-medium">Taller de Programación</p>
                 <p class="subcategoria-taller text-sm text-gray-500 mt-1">Subcategoría: Programación</p>
                 <button class="text-red-500 text-2xl mt-2 hover:text-red-600 transition-all duration-300">❤</button>
@@ -282,7 +282,7 @@
             
             <!-- Taller de Autocuidado (Personales) -->
             <div class="tarjeta-taller personales autocuidado">
-                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg" alt="">
+                <img class="h-auto max-w-full rounded-lg mb-3 transition-all duration-300" src="https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80" alt="Taller de Autocuidado, persona meditando">
                 <p class="nombre-taller mt-3 text-gray-700 text-lg font-medium">Taller de Autocuidado</p>
                 <p class="subcategoria-taller text-sm text-gray-500 mt-1">Subcategoría: Autocuidado</p>
                 <button class="text-red-500 text-2xl mt-2 hover:text-red-600 transition-all duration-300">❤</button>
