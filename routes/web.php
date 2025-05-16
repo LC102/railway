@@ -85,10 +85,3 @@ Route::get('/tallerista/talleres', [TalleristaController::class, 'index'])->name
 // Rutas de autenticación
 require __DIR__.'/auth.php';
 
-// Ruta de login simulada (puedes eliminarla si no la necesitas)
-// Route::get('/login', function () {
-//     return 'Página de inicio de sesión (simulada)';
-// })->name('login');
-Route::get('/db-check', function () {
-    return env('DB_HOST') . ':' . env('DB_PORT');
-});
