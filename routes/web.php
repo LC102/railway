@@ -89,3 +89,6 @@ require __DIR__.'/auth.php';
 // Route::get('/login', function () {
 //     return 'Página de inicio de sesión (simulada)';
 // })->name('login');
+Route::get('/db-check', function () {
+    return env('DB_HOST') . ':' . env('DB_PORT');
+});
