@@ -18,7 +18,7 @@ use App\Http\Controllers\TalleristaController;
 
 // Rutas públicas (sin autenticación)
 Route::get('/', function () {
-    return view('welcome');
+    return view('paginaInicio'); // Asegúrate de que 'paginaInicio' sea el nombre correcto de tu vista.
 });
 
 Route::view('/inicio', '/paginaInicio');
